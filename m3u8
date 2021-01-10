@@ -29,16 +29,12 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1482161906_b384
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w9390699_b192000_sleng.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldNews",CNN Indonesia(HW+)
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w618091941_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldNews",Deutsche Welle (English)
-https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldNews",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldNews",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldNews",Mirror Now
 https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldNews",Times Now
-http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldNews",NDTV 24X7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldNews",Newsmax
@@ -63,8 +59,6 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldNews",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldNews",Africa News
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldNews",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
@@ -72,8 +66,6 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 
 
 ====================================================SCIENCE==========================================================================================
-#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",Superyatch_Tv
-http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",DOCU CHINA
 rtmp://58.200.131.2:1935/livetv/docuchina
 #EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",thaipbs
@@ -130,12 +122,6 @@ https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",ANIMAL PLANET
 https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",Arirang TV
-https://fvtv.mywire.org/playlist/hc2ewfesdu-skkzbbp3rh.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",NHK World Japan
-https://fvtv.mywire.org/playlist/a4z6rfa20y-ef21kjprvd.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",CGTN Documentary
-https://fvtv.mywire.org/playlist/uz03ddxrcx-dpwx0wh5ug.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",ANIMAL PLANET 3
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",CGTN Documentary
