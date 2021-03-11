@@ -72,6 +72,12 @@ https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",DOCU CHINA
 rtmp://58.200.131.2:1935/livetv/docuchina
+#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",Gedocu
+rtmp://58.200.131.2:1935/livetv/gedocu
+#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",Finansial 
+rtmp://livetv.dhtv.cn/live/financial
+#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",Peoples
+rtmp://livetv.dhtv.cn:1935/live/peoples
 #EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",thaipbs
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",BISNET ADVENTURE 4K
@@ -81,21 +87,7 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 #EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",natgeo'
 rtmp://58.200.131.2:1935/livetv/natlgeo
 #EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",discovery
-rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
-#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",discovery'
-rtmp://58.200.131.3:1935/livetv/discovery
-#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",Discovery Science
-http://streamitv.multitvsolution.in/idvo/discoversciencehindi_360p/index.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",Discovery Hindi
-https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",Discovery HD 
-https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",Discovery Science
-https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",Discovery Science English
-https://streamitv.multitvsolution.in/idvo/discoverscienceeng.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",Discovery Turbo
-http://streamitv.multitvsolution.in/idvo/turboeng_540p/index.m3u8
+rtmp://58.200.131.2:1935/livetv/discovery
 #EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",Beruang
 http://92.43.140.200/s62/04.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",RTG HD
