@@ -47,10 +47,6 @@ http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldNews",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldNews",Weather Channel
-https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="WorldNews",Voice of America
-https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldNews",IDX Channel
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldNews", CNBC Indonesia
@@ -155,12 +151,6 @@ https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175/tv5pacifiqueen/tv5pacifiqu
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="RELIGI",MADINAH TV
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="RELIGI",ALQURAN TV
-https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACtq9yap7UR5jiklf0aAiFKa/alquran.m3u8?dl=0
-#EXTINF:-1 tvg-logo="TEST" group-title="RELIGI",ACT TV
-https://stream.actnews.tv/livetv/humanity-tv_hi/index.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="RELIGI",TV Muhammadiyah
-http://203.153.218.26:9981/stream/channelid/423233853
 #EXTINF:-1 tvg-logo="TEST" group-title="RELIGI",MADU TV
 https://v3.siar.us/madutv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="RELIGI",MUADZ TV
