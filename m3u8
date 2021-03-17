@@ -68,6 +68,28 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 ====================================================SCIENCE==========================================================================================
 #EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",Bbc earth 
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",NATGEO HD
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",ANIMAL PLANET 3
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",CGTN Documentary
+http://210.210.155.35/qwr9ew/s/s20/02.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",CGTN DOCUMENTARY
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",BISNET ADVENTURE 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",natgeo
+rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",natgeo'
+rtmp://58.200.131.2:1935/livetv/natlgeo
+#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",discovery
+rtmp://58.200.131.2:1935/livetv/discovery
+#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",NAT GEO DUBAI
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",CRIME+INVESGATION
+http://203.154.243.31:15001
+#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",CA: Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",DOCU CHINA
@@ -80,20 +102,10 @@ rtmp://livetv.dhtv.cn/live/financial
 rtmp://livetv.dhtv.cn:1935/live/peoples
 #EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",thaipbs
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",BISNET ADVENTURE 4K
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",natgeo
-rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
-#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",natgeo'
-rtmp://58.200.131.2:1935/livetv/natlgeo
-#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",discovery
-rtmp://58.200.131.2:1935/livetv/discovery
 #EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",Beruang
 http://92.43.140.200/s62/04.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",RTG HD
 http://92.43.140.200/s63/04.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",Fine living
-http://92.43.140.200/s51/04.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",NCT
 http://92.43.140.200/s40/04.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",3AROPO
@@ -104,10 +116,6 @@ http://92.43.140.200/s26/04.m3u8
 http://92.43.140.200/s92/04.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",RUSIA ?
 http://92.43.140.200/s12/04.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",NATGEO HD
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",AnimalPlanet1
-http://136.243.177.164/ANIMALPLANET/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",Discovery Channel
 https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",HISTORY HD
@@ -118,20 +126,6 @@ https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",ANIMAL PLANET
 https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",ANIMAL PLANET 3
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",CGTN Documentary
-http://210.210.155.35/qwr9ew/s/s20/02.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",CGTN DOCUMENTARY
-https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",History Lab
-http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",NAT GEO DUBAI
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",CRIME+INVESGATION
-http://203.154.243.31:15001
-#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",CA: Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8
 
 =============================================================StyleDanFood===================================================================================
 #EXTINF:-1 tvg-logo="TEST" group-title="StyleDanFood",FoodTV
@@ -142,14 +136,10 @@ http://92.43.140.200/s18/04.m3u8
 http://92.43.140.200/s53/04.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="StyleDanFood",ASIAN FOOD NETWORK
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="StyleDanFood",Food Network
-http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="StyleDanFood",The Outdoor Cooking Channel
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="StyleDanFood",The Outdoor Cooking Channel 2
 https://ch.iptvmate.net/11e118e202992ae500578c6f72bcf142.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="TEST" group-title="StyleDanFood",FOOD
-http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="StyleDanFood",ATV
 http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="StyleDanFood",TV5 Monde Asie
