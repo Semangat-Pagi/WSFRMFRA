@@ -62,6 +62,8 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 
 
 ====================================================SCIENCE==========================================================================================
+#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",LOVE NATURE VID
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/lovenature.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",Bbc earth 
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",NATGEO HD
@@ -204,6 +206,8 @@ http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
 
 
 ==========================================================================MUSIC======================================================================================
+#EXTINF:-1 tvg-logo="TEST" group-title="MUSIC",CITRA DANGDUT VID
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/CitraDangdutVid.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="MUSIC",ONE
 http://rtmp.one.by:1300
 #EXTINF:-1 tvg-logo="TEST" group-title="MUSIC",Bridge tv
