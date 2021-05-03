@@ -19,6 +19,8 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldNews",SKY NEWS EXTRA 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="WorldNews",BBC SCOTLANDIA
+http://51.52.156.22:8888/http/001
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldNews",BBC News
 http://51.52.156.22:8888/http/004
 #EXTINF:-1 tvg-logo="TEST" group-title="WorldNews",CNN
