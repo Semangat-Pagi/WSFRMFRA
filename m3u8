@@ -64,8 +64,10 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 
 
 ====================================================SCIENCE==========================================================================================
-#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",LOVE NATURE VID
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/lovenature.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",SMITHSONIAN VID
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6550_720p/index.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",CRIME & INVESTIGATION
+http://203.154.243.31:15001
 #EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",Bbc earth 
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="SCIENCE",NATGEO HD
@@ -151,6 +153,10 @@ https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175/tv5pacifiqueen/tv5pacifiqu
 
 
 ====================================================================RELIGI==================================================================================================================
+#EXTINF:-1  tvg-logo="TEST" group-title="RELIGI",Al Quran Al Kareem VID
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6852_720p/index.m3u8
+#EXTINF:-1  tvg-logo="TEST" group-title="RELIGI",CITRA MUSLIM VID
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6678_720p/index.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="RELIGI",MAKKAH TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="RELIGI",MADINAH TV
